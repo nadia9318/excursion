@@ -1,0 +1,25 @@
+html {
+    font-family: Verdana, sans serif;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+}
+
+/* Top Title */
+
+.top-title {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.download-link a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* iPhone Video */
+
+.video {
+    padding-top: 25px;
+}
+
