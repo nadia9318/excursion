@@ -1,0 +1,15 @@
+html {
+    font-family: Verdana, sans serif;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+}
+
+.top-title {
+    font-size: 50px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
