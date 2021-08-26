@@ -23,3 +23,31 @@ html {
     padding-top: 25px;
 }
 
+.middle-title p {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.second-title p {
+    font-size: 21px;
+    color: gray;
+}
+
+/* Coming Soon */
+
+.phone-pic img {
+    padding-top: 20px;
+}
+
+
+.bottom-title p {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.copyright p {
+    float: right;
+    display: block;
+    color: grey;
+    text-align: right;
+}
